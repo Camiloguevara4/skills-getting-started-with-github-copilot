@@ -7,6 +7,7 @@ def test_get_activities_returns_all_activities(client):
         "Soccer Team",
         "Basketball",
         "Art Studio",
+        "Art Club",
         "Music Band",
         "Debate Club",
         "Science Club",

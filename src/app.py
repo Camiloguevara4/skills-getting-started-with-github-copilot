@@ -39,10 +39,10 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    "Soccer Team": {
-        "description": "Join our competitive soccer team and play matches",
-        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
-        "max_participants": 18,
+"Soccer Team": {
+    "description": "Join our competitive soccer team and play matches",
+    "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+    "max_participants": 18,
         "participants": ["alex@mergington.edu"]
     },
     "Basketball": {
@@ -69,12 +69,18 @@ activities = {
         "max_participants": 16,
         "participants": ["sarah@mergington.edu"]
     },
-    "Science Club": {
-        "description": "Explore STEM concepts through hands-on experiments",
-        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
-        "max_participants": 22,
-        "participants": ["isaac@mergington.edu", "ava@mergington.edu"]
-    }
+"Science Club": {
+    "description": "Explore STEM concepts through hands-on experiments",
+    "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+    "max_participants": 22,
+    "participants": ["isaac@mergington.edu", "ava@mergington.edu"]
+},
+"Art Club": {
+    "description": "Explore painting, drawing, and other creative projects",
+    "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+    "max_participants": 15,
+    "participants": ["ava@mergington.edu", "liam@mergington.edu"]
+}
 }
 
 
